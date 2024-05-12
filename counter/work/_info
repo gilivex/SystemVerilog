@@ -1,0 +1,172 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11f vlog 2023.4 2023.10, Oct  9 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/USER001/Desktop/Gil/Lab/tosend
+vQBll16Jme24yy2seIRFFbQ==
+Z2 !s105 top_sv_unit
+Z3 DXx4 work 11 top_sv_unit 0 22 YV04EXl[3ZIb^J0;aE_?o2
+Z4 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z5 !s110 1715517803
+!i10b 0
+!s100 I42R;?ko?`Tk7jC856Yl11
+I`C<8e3[k`7e]GhAkS0Q1o1
+!i119 1
+!i8a 144933168
+S1
+R1
+w1715517803
+8AlU_wrong.svp
+Z6 FAlU_wrong.svp
+!i122 1
+L0 17 1
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2023.4;77
+r1
+!s85 0
+31
+Z9 !s108 1715517802.000000
+Z10 !s107 reference.sv|scoreboard.sv|monitor.sv|driver.sv|generator.sv|transaction.sv|environment.sv|random_test.sv|AlU_wrong.svp|interface.sv|top.sv|
+Z11 !s90 -reportprogress|300|top.sv|
+!i113 0
+Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+n4615
+Yinf
+Z14 2top.sv
+R2
+R3
+R4
+!s110 1715517802
+!i10b 1
+!s100 PTonP[6IDOeVQomO;kJYZ3
+Ihi;2N_A]aE[nN@ibQGgH31
+S1
+R1
+w1715513873
+8interface.sv
+Z15 Finterface.sv
+!i122 1
+Z16 L0 1 0
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Topt_test
+!s11d top_sv_unit C:/Users/USER001/Desktop/Gil/Lab/tosend/work 1 inf 1 C:/Users/USER001/Desktop/Gil/Lab/tosend/work 
+R5
+VmOlUQ^l53BIaglbTj=8L42
+04 3 4 work top fast 0
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o+acc
+R13
+nopt_test
+OL;O;2023.4;77
+4test
+R14
+R4
+R3
+R5
+R7
+r1
+!s85 0
+!i10b 1
+!s100 8cN?QhMiAmWWDP>N]^T`o0
+I0Xl@n0Gef[MHPziYWR]cN3
+R2
+S1
+R1
+w1715517611
+8random_test.sv
+Z17 Frandom_test.sv
+!i122 1
+L0 2 0
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+vtop
+R14
+R4
+R3
+R5
+R7
+r1
+!s85 0
+!i10b 1
+!s100 6]n4009z7SF[VHO2afgZL0
+I<M32JBVSAWcdX8oTU[Onf0
+R2
+S1
+R1
+w1715513929
+Z18 8top.sv
+Z19 Ftop.sv
+!i122 1
+L0 11 27
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Xtop_sv_unit
+R14
+!s115 inf
+R4
+R5
+VYV04EXl[3ZIb^J0;aE_?o2
+r1
+!s85 0
+!i10b 1
+!s100 Q];jhBk1LK>Md`Vb`@Pm03
+IYV04EXl[3ZIb^J0;aE_?o2
+!i103 1
+S1
+R1
+w1715517665
+R18
+R19
+R15
+R6
+R17
+Fenvironment.sv
+Ftransaction.sv
+Fgenerator.sv
+Fdriver.sv
+Fmonitor.sv
+Fscoreboard.sv
+Freference.sv
+!i122 1
+R16
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
